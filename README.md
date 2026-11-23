@@ -18,7 +18,7 @@ stories and the reporting behind each one are listed in
 ## Run it
 
 ```sh
-python3 generate.py   # writes entry.png
+python3 main.py   # writes entry.png
 ```
 
 ## The eight stories
